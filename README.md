@@ -1,4 +1,4 @@
-![Power BI Resume](https://your-image-link.com/powerbi-resume-banner.png)  
+![Power BI Resume](https://github.com/Deepak747949/My-Resume-/blob/main/Screenshot%202025-02-15%20201448.png)  
 
 # 🎨📊 Power BI & Excel Interactive Resume
 
